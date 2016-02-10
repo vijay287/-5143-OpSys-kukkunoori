@@ -1,5 +1,5 @@
 # -5143-OpSys-kukkunoori
 
-![Shashank Namala](http://tinypic.com/r/2mo83ms/9)
+![A](http://i63.tinypic.com/2mo83ms.jpg)
 
 
