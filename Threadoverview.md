@@ -1,3 +1,7 @@
+# Name- Vijayaramakrishna kukkunoori
+# Date -04/08/2016
+# Mustangs id- 20228860
+
 # 1.Explain the differences between Threads1 and Threads2 using lines from the code and a precise explanation.
 Thread1.py has two threads A & B which are independent to each other. so they gets executed independent to each other and prints the value. Wher in Thread2.py, it consists of two  threads A & B which are sharing the same  global variable "shared counter". So these  threads are dependent.
 # 2.After running Thread3.py does it fix the problems that occured in Threads2.py? What's the down-side?
